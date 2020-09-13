@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "630875551105",
+    "firebase_url": "https://training-n-placements.firebaseio.com",
+    "project_id": "training-n-placements",
+    "storage_bucket": "training-n-placements.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630875551105:android:f901e29c0d7cb74d346480",
+        "android_client_info": {
+          "package_name": "com.vaagdevi.trainingnplacements"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630875551105-lcqk8d295hvvtc5rvi2ap638j56mm0rr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vaagdevi.trainingnplacements",
+            "certificate_hash": "8c9d73fbf140871451b84ed64b52402922ca4389"
+          }
+        },
+        {
+          "client_id": "630875551105-b537e3frviv4d1r045trb8h5nofbfvv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvbvcteuOCIngNOVBMoNYft83siX14ZuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630875551105-b537e3frviv4d1r045trb8h5nofbfvv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

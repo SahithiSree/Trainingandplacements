@@ -77,7 +77,7 @@
                 android:layout_marginTop="10dp"
                 android:text="Forgot Password?"
                 android:textColor="@color/primaryTextColor"
-                android:textSize="@dimen/newsMoreTextSize" />x
+                android:textSize="@dimen/newsMoreTextSize" />
 
             <br.com.simplepass.loading_button_lib.customViews.CircularProgressButton
                 android:id="@+id/cirLoginButton"
@@ -90,16 +90,17 @@
                 app:spinning_bar_padding="6dp"
                 app:spinning_bar_width="4dp" />
 
-            <TextView
+            <Button
                 style="@style/parent"
+                android:id="@+id/newuserbtn"
                 android:layout_marginTop="@dimen/loginViewsMargin"
-                android:onClick="onLoginClick"
+
                 android:text="New user? Register Now"
                 android:textAlignment="center"
                 android:textColor="@color/themeColor"
                 android:textSize="17sp"
                 android:textStyle="bold"
-                tools:ignore="OnClick" />
+               />
 
 
             <LinearLayout
@@ -137,7 +138,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
                 android:gravity="center">
-4
+
                 <com.google.android.gms.common.SignInButton
                     android:id="@+id/googleBTN"
                     android:layout_width="match_parent"
